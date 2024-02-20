@@ -1,0 +1,28 @@
+body{
+background-image: url(https://images.freeimages.com/images/large-previews/5d3/the-wall-1196155.jpg?fmt=webp&w=500);
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+table{
+    border: solid 30px;
+    margin-left: 27%;
+    font-size: xx-large;
+    text-align: center;
+    background-color: tomato;
+    
+}
+th{
+    background-color: rgb(79, 87, 90);
+    color: rgb(46, 42, 42)
+}
+
+td{
+    background-color: brown;
+    color: white;
+}
+h1, h2, h3{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
